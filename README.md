@@ -1,6 +1,15 @@
 # Fashionwap 🔥 [![GitHub](https://img.shields.io/github/license/alexwindy0/fashionwap?color=green)](https://github.com/alexwindy0/fashionwap/blob/main/LICENSE.md) ![GitHub stars](https://img.shields.io/github/stars/alexwindy0/fashionwap) ![GitHub forks](https://img.shields.io/github/forks/alexwindy0/fashionwap)
 
 
+## Fashionwap
+
+Fashionwap is a fully responsive web/mobile application. designed using javascript, Bootstrap5, CSS and AOS (animation on scroll).
+
+Fashionwap template was designed using the one page scroll idea, it's a mini website where Photographers and Models alike can use to showcase the beauty of thier works. and the best of their galleries.
+
+Stay tuned for the Bookings section update (coming soon), where clients can book Photographers and sessions in various locations.
+
+
 ## Features
 
 🔥 Modern UI Design + Reveal Animations\
